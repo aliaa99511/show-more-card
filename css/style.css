@@ -1,0 +1,21 @@
+
+
+
+.parent{
+    margin: 50px 0;
+    margin-bottom: 150px;
+}
+.parent .card-img-top {
+    border-bottom: 1px solid #80808052!important;
+    height: 260px!important;
+    
+}
+.card{
+    margin-bottom: 30px!important;
+}
+.none1,.none2,.none3,.none4,.none5,.none6,.none7{
+    /*display: none!important;*/
+}
+.none{
+    display: none!important;
+}
